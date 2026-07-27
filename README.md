@@ -441,4 +441,4 @@ MIT
 - [Next.js](https://nextjs.org/) — 全栈框架
 - [shadcn/ui](https://ui.shadcn.com/) — UI 组件库
 - [Vercel](https://vercel.com/) — 部署平台
-- [Prisma](https://www.prisma.io/) — 数据库 ORM
+- [Prisma](https://www.prisma.io/) — 数据库 ORM 
